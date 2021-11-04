@@ -35,7 +35,7 @@ N/A
 
 Here's a walkthrough of implemented user stories:
 
-<img src=TwitterClone-2.gif title='Video Walkthrough' width='1000' alt='Video Walkthrough' />
+<img src=TwitterClone-2.gif title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
